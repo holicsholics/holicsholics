@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-## About Me
+### About Me
+* University of Seoul, Stat
+* LIKELION AIS 7
+
+
+### 💡SKILLS
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 
 <!--
