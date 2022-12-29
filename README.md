@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About Me
-* University of Seoul, Stat Mar. 2020 ~
+* University of Seoul, Stat 'Mar. 2020' ~
 * LIKELION AIS 7 
 
 
